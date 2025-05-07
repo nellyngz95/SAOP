@@ -5,4 +5,5 @@ You will find the :
   We used the 6KSFX Dataset combined with samples of online sound effects libraries
 * BottleNeck Framework with XGBoost.
   In the folder BottleNeckProcess, you will find the script and the csv of the extracted features, plus the csv of the top 5 most important features.
-  
+
+For more information about the analysis and descriptions of the optimization of the models please visit:https://saop-project.netlify.app
